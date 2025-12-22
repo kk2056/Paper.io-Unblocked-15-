@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://paperio2025.online/sitemap.xml
